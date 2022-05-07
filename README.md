@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sijoshi11
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in using machine learning to develop new materials
 - 🌱 I’m currently learning machine learning for engineering application
-- 💞️ I’m looking to collaborate on machine learning to develop new alloys
+- 💞️ I’m looking to collaborate on machine learning to develop new materials
 - 📫 How to reach me is through linkedin
 
 <!---
